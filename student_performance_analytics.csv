@@ -1,0 +1,16 @@
+RollNo,Name,Department,Python,Java,Math,Attendance,Total_Marks,Average,Grade,Status
+101,Sourabh,AIML,85,78,90,92,253,84.33,A,Pass
+102,Aniket,AIML,72,65,70,85,207,69.0,C,Pass
+103,Piyush,CSE,95,92,88,96,275,91.67,A+,Pass
+104,Divya,AIML,60,58,65,78,183,61.0,C,Pass
+105,Karan,CSE,78,80,75,88,233,77.67,B,Pass
+106,Rahul,AIML,45,40,50,70,135,45.0,Fail,Fail
+107,Amit,IT,88,85,82,90,255,85.0,A,Pass
+108,Sneha,AIML,92,90,95,95,277,92.33,A+,Pass
+109,Rohit,IT,55,52,58,80,165,55.0,C,Pass
+110,Vikas,CSE,68,70,62,84,200,66.67,C,Pass
+111,Neeraj,AIML,35,38,42,65,115,38.33,Fail,Fail
+112,Pooja,IT,80,78,85,89,243,81.0,A,Pass
+113,Aman,CSE,74,72,70,87,216,72.0,B,Pass
+114,Sanjay,AIML,50,48,55,75,153,51.0,C,Pass
+115,Deepak,IT,90,88,92,93,270,90.0,A+,Pass
